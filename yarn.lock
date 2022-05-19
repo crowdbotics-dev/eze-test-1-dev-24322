@@ -1277,6 +1277,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/about-the-app@file:./screens/about-the-app/":
+  version "1.0.0"
+
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
